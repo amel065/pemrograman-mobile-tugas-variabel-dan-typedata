@@ -7,11 +7,8 @@ Deskripsi Program:
 Program ini menghitung gaji karyawan berdasarkan input:
 
 -Nama
-
 -Jam kerja per minggu
-
 -Upah per jam
-
 -Status (tetap/kontrak)
 
 
