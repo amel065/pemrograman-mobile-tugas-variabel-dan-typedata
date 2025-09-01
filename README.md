@@ -5,14 +5,22 @@ NPM : 07352311127
 Deskripsi Program:
 
 Program ini menghitung gaji karyawan berdasarkan input:
+
 -Nama
+
 -Jam kerja per minggu
+
 -Upah per jam
+
 -Status (tetap/kontrak)
 
+
 Program akan hitung:
+
 -Gaji kotor = jam kerja × upah per jam
+
 -Pajak (10% untuk tetap, 5% untuk kontrak)
+
 -Gaji bersih = gaji kotor - pajak
 
 Cara Menjalankan:
