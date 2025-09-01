@@ -7,9 +7,13 @@ Deskripsi Program:
 Program ini menghitung gaji karyawan berdasarkan input:
 
 -Nama
+
 -Jam kerja per minggu
+
 -Upah per jam
+
 -Status (tetap/kontrak)
+
 
 
 Program akan hitung:
@@ -20,22 +24,39 @@ Program akan hitung:
 
 -Gaji bersih = gaji kotor - pajak
 
+
 Cara Menjalankan:
+
 -Pastikan sudah install Dart SDK
+
 -Simpan kode dalam file .dart
+
 -Buka terminal, masuk ke folder file
+
 -Ketik: dart run nama_file.dart
+
 -Ikuti instruksi di layar
+
+
 
 Contoh Hasil Run :
 
 Masukkan Nama : Amel
+
 Jam kerja per minggu : 45
+
 Upah per jam : 50000
+
 Status karyawan (tetap/kontrak) : tetap
 
+
+
 --- SLIP GAJI ---
+
 Nama: Amel
+
 Gaji Kotor: Rp2250000.00
+
 Pajak: Rp225000.00
+
 Gaji Bersih: Rp2025000.00
